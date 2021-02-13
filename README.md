@@ -15,7 +15,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/parvaneshakeri/PNU_3991_AR/blob/main/%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87.pdf)
 
 
 
